@@ -1,0 +1,555 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{41201AE2-B4FE-4AFD-8FE3-E9AB82F7EA21}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ProjetoLivraria</RootNamespace>
+    <AssemblyName>ProjetoLivraria</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Correios.Net, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Correios.CEP.Net.1.1.6\lib\Correios.Net.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="zxing">
+      <HintPath>..\..\..\..\..\Projetos\DLLS C#\zxing.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Modelo\ModeloDados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modelo\ModeloDados.Designer.cs">
+      <DependentUpon>ModeloDados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelo\ModeloLista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modelo\ModeloLista.Designer.cs">
+      <DependentUpon>ModeloLista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelo\ModeloMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modelo\ModeloMenu.Designer.cs">
+      <DependentUpon>ModeloMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelo\ModeloPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modelo\ModeloPrincipal.Designer.cs">
+      <DependentUpon>ModeloPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Clientes\ClientesDados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\Clientes\ClientesDados.Designer.cs">
+      <DependentUpon>ClientesDados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Clientes\ClientesLista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\Clientes\ClientesLista.Designer.cs">
+      <DependentUpon>ClientesLista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Contas\ContasDados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\Contas\ContasDados.Designer.cs">
+      <DependentUpon>ContasDados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Contas\ContasLista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\Contas\ContasLista.Designer.cs">
+      <DependentUpon>ContasLista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Contas\ContasRegistrarPagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\Contas\ContasRegistrarPagamento.Designer.cs">
+      <DependentUpon>ContasRegistrarPagamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Contas\ContasTrocarData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\Contas\ContasTrocarData.Designer.cs">
+      <DependentUpon>ContasTrocarData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Editoras\EditorasDados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\Editoras\EditorasDados.Designer.cs">
+      <DependentUpon>EditorasDados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Editoras\EditorasLista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\Editoras\EditorasLista.Designer.cs">
+      <DependentUpon>EditorasLista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Editoras\EditorasMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\Editoras\EditorasMenu.Designer.cs">
+      <DependentUpon>EditorasMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Editoras\Pedidos\PedidosDados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\Editoras\Pedidos\PedidosDados.Designer.cs">
+      <DependentUpon>PedidosDados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Editoras\Pedidos\PedidosLista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\Editoras\Pedidos\PedidosLista.Designer.cs">
+      <DependentUpon>PedidosLista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Financeiro\FinanceiroDados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\Financeiro\FinanceiroDados.Designer.cs">
+      <DependentUpon>FinanceiroDados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Financeiro\FinanceiroGraficos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\Financeiro\FinanceiroGraficos.Designer.cs">
+      <DependentUpon>FinanceiroGraficos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Funcionarios\FuncionariosDados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\Funcionarios\FuncionariosDados.Designer.cs">
+      <DependentUpon>FuncionariosDados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Funcionarios\FuncionariosLista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\Funcionarios\FuncionariosLista.Designer.cs">
+      <DependentUpon>FuncionariosLista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Livros\Estoque\EstoqueConsulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\Livros\Estoque\EstoqueConsulta.Designer.cs">
+      <DependentUpon>EstoqueConsulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Livros\Estoque\EstoqueHomologacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\Livros\Estoque\EstoqueHomologacao.Designer.cs">
+      <DependentUpon>EstoqueHomologacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Livros\Estoque\EstoqueMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\Livros\Estoque\EstoqueMenu.Designer.cs">
+      <DependentUpon>EstoqueMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Livros\LivrosDados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\Livros\LivrosDados.Designer.cs">
+      <DependentUpon>LivrosDados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Livros\LivrosLista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\Livros\LivrosLista.Designer.cs">
+      <DependentUpon>LivrosLista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Livros\LivrosMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\Livros\LivrosMenu.Designer.cs">
+      <DependentUpon>LivrosMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Vendas\VendasDados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\Vendas\VendasDados.Designer.cs">
+      <DependentUpon>VendasDados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Vendas\VendasEfetuar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\Vendas\VendasEfetuar.Designer.cs">
+      <DependentUpon>VendasEfetuar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Vendas\VendasEscolherCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\Vendas\VendasEscolherCliente.Designer.cs">
+      <DependentUpon>VendasEscolherCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Vendas\VendasLista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\Vendas\VendasLista.Designer.cs">
+      <DependentUpon>VendasLista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Vendas\VendasMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\Vendas\VendasMenu.Designer.cs">
+      <DependentUpon>VendasMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negocio\Vendas\VendasPagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Negocio\Vendas\VendasPagamento.Designer.cs">
+      <DependentUpon>VendasPagamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sistema\Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sistema\Inicio.Designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sistema\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sistema\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Modelo\ModeloDados.resx">
+      <DependentUpon>ModeloDados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modelo\ModeloLista.resx">
+      <DependentUpon>ModeloLista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modelo\ModeloMenu.resx">
+      <DependentUpon>ModeloMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modelo\ModeloPrincipal.resx">
+      <DependentUpon>ModeloPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Clientes\ClientesDados.resx">
+      <DependentUpon>ClientesDados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Clientes\ClientesLista.resx">
+      <DependentUpon>ClientesLista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Contas\ContasDados.resx">
+      <DependentUpon>ContasDados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Contas\ContasLista.resx">
+      <DependentUpon>ContasLista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Contas\ContasRegistrarPagamento.resx">
+      <DependentUpon>ContasRegistrarPagamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Contas\ContasTrocarData.resx">
+      <DependentUpon>ContasTrocarData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Editoras\EditorasDados.resx">
+      <DependentUpon>EditorasDados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Editoras\EditorasLista.resx">
+      <DependentUpon>EditorasLista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Editoras\EditorasMenu.resx">
+      <DependentUpon>EditorasMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Editoras\Pedidos\PedidosDados.resx">
+      <DependentUpon>PedidosDados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Editoras\Pedidos\PedidosLista.resx">
+      <DependentUpon>PedidosLista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Financeiro\FinanceiroDados.resx">
+      <DependentUpon>FinanceiroDados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Financeiro\FinanceiroGraficos.resx">
+      <DependentUpon>FinanceiroGraficos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Funcionarios\FuncionariosDados.resx">
+      <DependentUpon>FuncionariosDados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Funcionarios\FuncionariosLista.resx">
+      <DependentUpon>FuncionariosLista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Livros\Estoque\EstoqueConsulta.resx">
+      <DependentUpon>EstoqueConsulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Livros\Estoque\EstoqueHomologacao.resx">
+      <DependentUpon>EstoqueHomologacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Livros\Estoque\EstoqueMenu.resx">
+      <DependentUpon>EstoqueMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Livros\LivrosDados.resx">
+      <DependentUpon>LivrosDados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Livros\LivrosLista.resx">
+      <DependentUpon>LivrosLista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Livros\LivrosMenu.resx">
+      <DependentUpon>LivrosMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Vendas\VendasDados.resx">
+      <DependentUpon>VendasDados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Vendas\VendasEfetuar.resx">
+      <DependentUpon>VendasEfetuar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Vendas\VendasEscolherCliente.resx">
+      <DependentUpon>VendasEscolherCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Vendas\VendasLista.resx">
+      <DependentUpon>VendasLista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Vendas\VendasMenu.resx">
+      <DependentUpon>VendasMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Negocio\Vendas\VendasPagamento.resx">
+      <DependentUpon>VendasPagamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Sistema\Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sistema\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnSair.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnClienteConsultar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnClienteAlterar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnClienteCadastrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnMenuInicio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-home-45.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnMenuContas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-barcode-45.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnMenuVendas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnMenuLivros.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnMenuEditoras.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-typewriter-with-paper-45.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnSalvar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnCancelar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{7b3cea2f-c372-422a-96a7-a8edb501d370}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnFuncionariosCadastrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnFuncionariosAlterar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnFuncionariosConsultar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnEditorasCadastrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnEditorasCadastrar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnEditorasAlterar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnEditorasConsultar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnLivrosCadastrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnLivrosAlterar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnLivrosConsultar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnNossosLivros.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnEditoras.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnPedidos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnNossosLivros1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnEstoque.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnEstoque1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnEstoqueHomologacao.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnEstoqueConsulta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnPedidosNovo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnPedidosConsultar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnPedidosRegistrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnVendasConsultar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnVendasEfetuar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnVendasConsultar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnContasNova.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnContasConsultar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnContasRegistrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnAbrirArquivo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnCancelar %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnProximoPasso.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnEsconderSenha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnTrocarImagem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnAdicionar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnVoltar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnConfirmar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnMostrarSenha2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mais.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Menos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Igual.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
