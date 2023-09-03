@@ -1,0 +1,27 @@
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\BLL\bin\Debug\BLL.dll
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\BLL\bin\Debug\BLL.pdb
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\BLL\obj\Debug\BLL.dll
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\BLL\obj\Debug\BLL.pdb
+C:\Users\Matheus\Desktop\ProjetoLivraria\BLL\bin\Debug\BLL.dll
+C:\Users\Matheus\Desktop\ProjetoLivraria\BLL\bin\Debug\BLL.pdb
+C:\Users\Matheus\Desktop\ProjetoLivraria\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\ProjetoLivraria\BLL\obj\Debug\BLL.dll
+C:\Users\Matheus\Desktop\ProjetoLivraria\BLL\obj\Debug\BLL.pdb
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\BLL\bin\Debug\BLL.dll
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\BLL\bin\Debug\BLL.pdb
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\BLL\obj\Debug\BLL.dll
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\BLL\obj\Debug\BLL.pdb
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\BLL\bin\Debug\BLL.dll
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\BLL\bin\Debug\BLL.pdb
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\BLL\obj\Debug\BLL.dll
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\BLL\obj\Debug\BLL.pdb
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\BLL\bin\Debug\BLL.dll
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\BLL\bin\Debug\BLL.pdb
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\BLL\obj\Debug\BLL.dll
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\BLL\obj\Debug\BLL.pdb
