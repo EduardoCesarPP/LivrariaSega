@@ -1,0 +1,234 @@
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\bin\Debug\ProjetoLivraria.exe.config
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\bin\Debug\ProjetoLivraria.exe
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\bin\Debug\ProjetoLivraria.pdb
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\bin\Debug\BLL.dll
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\bin\Debug\Correios.Net.dll
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\bin\Debug\zxing.dll
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\bin\Debug\BLL.pdb
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\bin\Debug\Correios.Net.pdb
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Modelo.ModeloDados.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Modelo.ModeloLista.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Modelo.ModeloMenu.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Modelo.ModeloPrincipal.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Clientes.ClientesDados.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Clientes.ClientesLista.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Contas.ContasDados.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Contas.ContasLista.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Contas.ContasTrocarData.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Editoras.EditorasDados.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Editoras.EditorasLista.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Editoras.EditorasMenu.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Editoras.Pedidos.PedidosDados.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Editoras.Pedidos.PedidosLista.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Funcionarios.FuncionariosDados.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Funcionarios.FuncionariosLista.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Livros.Estoque.EstoqueConsulta.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Livros.Estoque.EstoqueHomologacao.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Livros.Estoque.EstoqueMenu.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Livros.LivrosDados.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Livros.LivrosLista.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Livros.LivrosMenu.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Vendas.VendasEfetuar.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Vendas.VendasEscolherCliente.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Vendas.VendasMenu.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Vendas.VendasPagamento.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Properties.Resources.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Sistema.Inicio.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Sistema.Login.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.csproj.GenerateResource.Cache
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.exe
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.pdb
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Vendas.VendasLista.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Vendas.VendasDados.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Contas.ContasRegistrarPagamento.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Financeiro.FinanceiroDados.resources
+C:\Users\Eduardo Cesar\Documents\FATEC\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Financeiro.FinanceiroGraficos.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\bin\Debug\ProjetoLivraria.exe.config
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\bin\Debug\ProjetoLivraria.exe
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\bin\Debug\ProjetoLivraria.pdb
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\bin\Debug\BLL.dll
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\bin\Debug\Correios.Net.dll
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\bin\Debug\BLL.pdb
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\bin\Debug\Correios.Net.pdb
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Modelo.ModeloDados.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Modelo.ModeloLista.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Modelo.ModeloMenu.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Modelo.ModeloPrincipal.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Clientes.ClientesDados.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Clientes.ClientesLista.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Contas.ContasDados.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Contas.ContasLista.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Contas.ContasRegistrarPagamento.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Contas.ContasTrocarData.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Editoras.EditorasDados.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Editoras.EditorasLista.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Editoras.EditorasMenu.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Editoras.Pedidos.PedidosDados.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Editoras.Pedidos.PedidosLista.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Financeiro.FinanceiroDados.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Financeiro.FinanceiroGraficos.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Funcionarios.FuncionariosDados.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Funcionarios.FuncionariosLista.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Livros.Estoque.EstoqueConsulta.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Livros.Estoque.EstoqueHomologacao.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Livros.Estoque.EstoqueMenu.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Livros.LivrosDados.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Livros.LivrosLista.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Livros.LivrosMenu.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Vendas.VendasDados.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Vendas.VendasEfetuar.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Vendas.VendasEscolherCliente.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Vendas.VendasLista.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Vendas.VendasMenu.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Vendas.VendasPagamento.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Properties.Resources.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Sistema.Inicio.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Sistema.Login.resources
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.csproj.GenerateResource.cache
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.csproj.CopyComplete
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.exe
+C:\Users\Matheus\Desktop\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.pdb
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\bin\Debug\ProjetoLivraria.exe.config
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.exe
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.pdb
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\bin\Debug\ProjetoLivraria.exe
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\bin\Debug\ProjetoLivraria.pdb
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\bin\Debug\BLL.dll
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\bin\Debug\Correios.Net.dll
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\bin\Debug\BLL.pdb
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\bin\Debug\Correios.Net.pdb
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Modelo.ModeloDados.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Modelo.ModeloLista.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Modelo.ModeloMenu.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Modelo.ModeloPrincipal.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Clientes.ClientesDados.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Clientes.ClientesLista.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Contas.ContasDados.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Contas.ContasLista.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Contas.ContasRegistrarPagamento.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Contas.ContasTrocarData.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Editoras.EditorasDados.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Editoras.EditorasLista.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Editoras.EditorasMenu.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Editoras.Pedidos.PedidosDados.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Editoras.Pedidos.PedidosLista.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Financeiro.FinanceiroDados.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Financeiro.FinanceiroGraficos.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Funcionarios.FuncionariosDados.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Funcionarios.FuncionariosLista.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Livros.Estoque.EstoqueConsulta.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Livros.Estoque.EstoqueHomologacao.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Livros.Estoque.EstoqueMenu.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Livros.LivrosDados.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Livros.LivrosLista.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Livros.LivrosMenu.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Vendas.VendasDados.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Vendas.VendasEfetuar.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Vendas.VendasEscolherCliente.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Vendas.VendasLista.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Vendas.VendasMenu.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Vendas.VendasPagamento.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Properties.Resources.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Sistema.Inicio.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Sistema.Login.resources
+C:\Users\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.csproj.GenerateResource.Cache
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\bin\Debug\ProjetoLivraria.exe.config
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\bin\Debug\ProjetoLivraria.exe
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\bin\Debug\ProjetoLivraria.pdb
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\bin\Debug\BLL.dll
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\bin\Debug\Correios.Net.dll
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\bin\Debug\BLL.pdb
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\bin\Debug\Correios.Net.pdb
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.csproj.AssemblyReference.cache
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.csproj.SuggestedBindingRedirects.cache
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Modelo.ModeloDados.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Modelo.ModeloLista.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Modelo.ModeloMenu.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Modelo.ModeloPrincipal.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Clientes.ClientesDados.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Clientes.ClientesLista.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Contas.ContasDados.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Contas.ContasLista.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Contas.ContasRegistrarPagamento.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Contas.ContasTrocarData.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Editoras.EditorasDados.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Editoras.EditorasLista.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Editoras.EditorasMenu.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Editoras.Pedidos.PedidosDados.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Editoras.Pedidos.PedidosLista.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Financeiro.FinanceiroDados.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Financeiro.FinanceiroGraficos.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Funcionarios.FuncionariosDados.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Funcionarios.FuncionariosLista.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Livros.Estoque.EstoqueConsulta.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Livros.Estoque.EstoqueHomologacao.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Livros.Estoque.EstoqueMenu.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Livros.LivrosDados.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Livros.LivrosLista.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Livros.LivrosMenu.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Vendas.VendasDados.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Vendas.VendasEfetuar.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Vendas.VendasEscolherCliente.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Vendas.VendasLista.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Vendas.VendasMenu.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Vendas.VendasPagamento.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Properties.Resources.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Sistema.Inicio.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Sistema.Login.resources
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.csproj.GenerateResource.cache
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.csproj.CoreCompileInputs.cache
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.csproj.CopyComplete
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.exe
+D:\Users\Eduardo Cesar\Documents\Eduardo Cesar\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.pdb
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\bin\Debug\ProjetoLivraria.exe.config
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\bin\Debug\ProjetoLivraria.exe
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\bin\Debug\ProjetoLivraria.pdb
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\bin\Debug\BLL.dll
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\bin\Debug\Correios.Net.dll
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\bin\Debug\BLL.pdb
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\bin\Debug\Correios.Net.pdb
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.csproj.AssemblyReference.cache
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.csproj.SuggestedBindingRedirects.cache
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Modelo.ModeloDados.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Modelo.ModeloLista.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Modelo.ModeloMenu.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Modelo.ModeloPrincipal.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Clientes.ClientesDados.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Clientes.ClientesLista.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Contas.ContasDados.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Contas.ContasLista.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Contas.ContasRegistrarPagamento.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Contas.ContasTrocarData.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Editoras.EditorasDados.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Editoras.EditorasLista.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Editoras.EditorasMenu.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Editoras.Pedidos.PedidosDados.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Editoras.Pedidos.PedidosLista.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Financeiro.FinanceiroDados.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Financeiro.FinanceiroGraficos.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Funcionarios.FuncionariosDados.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Funcionarios.FuncionariosLista.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Livros.Estoque.EstoqueConsulta.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Livros.Estoque.EstoqueHomologacao.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Livros.Estoque.EstoqueMenu.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Livros.LivrosDados.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Livros.LivrosLista.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Livros.LivrosMenu.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Vendas.VendasDados.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Vendas.VendasEfetuar.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Vendas.VendasEscolherCliente.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Vendas.VendasLista.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Vendas.VendasMenu.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Negocio.Vendas.VendasPagamento.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Properties.Resources.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Sistema.Inicio.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.Sistema.Login.resources
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.csproj.GenerateResource.cache
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.csproj.CoreCompileInputs.cache
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.csproj.CopyComplete
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.exe
+D:\Users\Eduardo Cesar\Documents\HD\Documents\Estudos\FaTec\2_SEM\Sist de Informacao\ProjetoLivraria\ProjetoLivraria\obj\Debug\ProjetoLivraria.pdb
