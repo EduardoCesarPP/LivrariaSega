@@ -1,4 +1,4 @@
-# LivrariaSega
+# LivrariaSega .v3
 
 ## Proposta
 Este sistema consiste em uma plataforma de gerenciamento para uma livraria fictícia "Livraria Sega" oferecendo soluções para o controle de clientes, fornecedores, pedidos, contas, estoque e vendas de livros, além de oferecer visualizações de métricas e gráficos para planejamento estratégico acerca de seus resultados financeiros.
