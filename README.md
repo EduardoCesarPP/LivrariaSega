@@ -26,3 +26,9 @@ Este sistema consiste em uma plataforma de gerenciamento para uma livraria fict�
    
 ## Tecnologia
 O sistema foi desenvolvido na estrutura de design Windows Forms utilizando o .NET Framework v4.8 e está integrado a um banco de dados SQL Server. 
+
+##
+### Outras Versões
+
+- **[Livraria Sega v1:](https://github.com/EduardoCesarPP/LivrariaSega_v1)** Projeto desenvolvido na linguagem C para o prompt de comando com bases em arquivos de texto.
+- **[Livraria Sega v2:](https://github.com/EduardoCesarPP/LivrariaSega_v2)** Projeto desenvolvido na linguagem VBA integrada a bases em planilhas Excel.
